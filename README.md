@@ -5,7 +5,7 @@
 - My top used stacks are Aws services, CI/CD, Docker, Kubernates, Microservices, Linux, Git
 - Ask me about anything Data science, Software engineering, cloud Development and DevOps.
 - 📫 You can reach me on favouridowuagida0@gmail.com
-- I love Solving problems and playing video games
+- I love Solving problems and birthing novel ideas
 
 <!---
 DudeGFA/DudeGFA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
