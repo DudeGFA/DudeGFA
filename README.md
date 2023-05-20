@@ -1,8 +1,8 @@
 - 👋 Hi, I’m God'sfavour Samuel Idowu-Agida
 - 👀 I’m interested in Software engineering, robotics, data science/machine learning,Cloud Development and DevOps, Cloud Architecture and Infrastructure.
-- 🌱 I’m currently into software engineering and Cloud Development.
+- 🌱 I’m currently into Backend development and Cloud Computing.
 - 💞️ I’m looking to collaborate working on a variety of technologies including Django, nodejs, Aws, Docker and kubernetes, CI/CD tools.
-- My top used stacks are Django, Aws services, CircleCI, Docker, Kubernates, Microservices, Linux, Git
+- My top used stacks are Django, Aws services, CircleCI, Docker, Kubernates, Linux, Git
 - Ask me about anything Software engineering, cloud Development and DevOps.
 - 📫 You can reach me on favouridowuagida0@gmail.com
 - I love Solving problems and birthing novel ideas
