@@ -1,5 +1,5 @@
 - 👋 Hi, I’m God'sfavour Samuel Idowu-Agida
-- 🌱 I’m currently into Full-Stack Development.
+- 🌱 I’m a Software Engineer / Full-Stack Developer.
 - Ask me about anything Software engineering, cloud Development and DevOps.
 - 📫 You can reach me on favouridowuagida5@gmail.com
 - I love Solving problems and birthing novel ideas
